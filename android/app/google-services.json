@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763194011568",
+    "project_id": "vbasassa",
+    "storage_bucket": "vbasassa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763194011568:android:95eab7373d300042c2f075",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLuePHXz4uozrJ_ASTzUnGapBKc96T9lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
