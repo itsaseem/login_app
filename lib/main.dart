@@ -1,11 +1,9 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/firebase_options.dart';
-import 'package:flutter_application_1/forgotscreen.dart';
+
 import 'package:flutter_application_1/login.dart';
-import 'package:flutter_application_1/registr.dart';
-import 'package:flutter_application_1/services.dart/authservice.dart';
-import 'package:flutter_application_1/splash.dart';
+
 
 void main() async { 
   WidgetsFlutterBinding.ensureInitialized();
